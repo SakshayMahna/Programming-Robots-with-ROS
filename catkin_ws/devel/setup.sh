@@ -11,7 +11,7 @@
 
 # since this file is sourced either use the provided _CATKIN_SETUP_DIR
 # or fall back to the destination set at configure time
-: ${_CATKIN_SETUP_DIR:=/media/root/BuntuDrive/catkin_ws/devel}
+: ${_CATKIN_SETUP_DIR:=/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/devel}
 _SETUP_UTIL="$_CATKIN_SETUP_DIR/_setup_util.py"
 unset _CATKIN_SETUP_DIR
 
@@ -94,5 +94,3 @@ done
 unset _i
 
 unset _CATKIN_ENVIRONMENT_HOOKS_COUNT
-
-export TURTLEBOT3_MODEL=burger

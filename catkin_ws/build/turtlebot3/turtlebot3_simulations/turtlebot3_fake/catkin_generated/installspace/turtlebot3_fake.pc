@@ -1,8 +1,8 @@
-prefix=/media/root/BuntuDrive/catkin_ws/install
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install
 
 Name: turtlebot3_fake
 Description: Description of turtlebot3_fake
 Version: 1.2.0
-Cflags: -I/media/root/BuntuDrive/catkin_ws/install/include
-Libs: -L/media/root/BuntuDrive/catkin_ws/install/lib 
+Cflags: -I/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install/include
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install/lib 
 Requires: roscpp std_msgs sensor_msgs geometry_msgs nav_msgs tf turtlebot3_msgs

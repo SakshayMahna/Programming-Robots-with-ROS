@@ -1,8 +1,8 @@
-prefix=/media/root/BuntuDrive/catkin_ws/devel
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/devel
 
 Name: turtlebot3_description
 Description: Description of turtlebot3_description
 Version: 1.2.1
 Cflags: 
-Libs: -L/media/root/BuntuDrive/catkin_ws/devel/lib 
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/devel/lib 
 Requires: urdf xacro

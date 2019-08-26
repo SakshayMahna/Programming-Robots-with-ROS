@@ -1,24 +1,24 @@
 Determining if the pthread_create exist failed with the following output:
-Change Dir: /media/root/BuntuDrive/catkin_ws/build/CMakeFiles/CMakeTmp
+Change Dir: /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_b734f/fast"
-/usr/bin/make -f CMakeFiles/cmTC_b734f.dir/build.make CMakeFiles/cmTC_b734f.dir/build
-make[1]: Entering directory '/media/root/BuntuDrive/catkin_ws/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_b734f.dir/CheckSymbolExists.c.o
-/usr/bin/cc     -o CMakeFiles/cmTC_b734f.dir/CheckSymbolExists.c.o   -c /media/root/BuntuDrive/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
-Linking C executable cmTC_b734f
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b734f.dir/link.txt --verbose=1
-/usr/bin/cc       CMakeFiles/cmTC_b734f.dir/CheckSymbolExists.c.o  -o cmTC_b734f -rdynamic 
-CMakeFiles/cmTC_b734f.dir/CheckSymbolExists.c.o: In function `main':
+Run Build Command:"/usr/bin/make" "cmTC_c873d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c873d.dir/build.make CMakeFiles/cmTC_c873d.dir/build
+make[1]: Entering directory '/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c873d.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_c873d.dir/CheckSymbolExists.c.o   -c /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_c873d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c873d.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_c873d.dir/CheckSymbolExists.c.o  -o cmTC_c873d -rdynamic 
+CMakeFiles/cmTC_c873d.dir/CheckSymbolExists.c.o: In function `main':
 CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_b734f.dir/build.make:97: recipe for target 'cmTC_b734f' failed
-make[1]: *** [cmTC_b734f] Error 1
-make[1]: Leaving directory '/media/root/BuntuDrive/catkin_ws/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_b734f/fast' failed
-make: *** [cmTC_b734f/fast] Error 2
+CMakeFiles/cmTC_c873d.dir/build.make:97: recipe for target 'cmTC_c873d' failed
+make[1]: *** [cmTC_c873d] Error 1
+make[1]: Leaving directory '/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c873d/fast' failed
+make: *** [cmTC_c873d/fast] Error 2
 
-File /media/root/BuntuDrive/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+File /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
 /* */
 #include <pthread.h>
 
@@ -34,22 +34,22 @@ int main(int argc, char** argv)
 }
 
 Determining if the function pthread_create exists in the pthreads failed with the following output:
-Change Dir: /media/root/BuntuDrive/catkin_ws/build/CMakeFiles/CMakeTmp
+Change Dir: /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/CMakeTmp
 
-Run Build Command:"/usr/bin/make" "cmTC_9f3ea/fast"
-/usr/bin/make -f CMakeFiles/cmTC_9f3ea.dir/build.make CMakeFiles/cmTC_9f3ea.dir/build
-make[1]: Entering directory '/media/root/BuntuDrive/catkin_ws/build/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9f3ea.dir/CheckFunctionExists.c.o
-/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_9f3ea.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
-Linking C executable cmTC_9f3ea
-/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9f3ea.dir/link.txt --verbose=1
-/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_9f3ea.dir/CheckFunctionExists.c.o  -o cmTC_9f3ea -rdynamic -lpthreads 
+Run Build Command:"/usr/bin/make" "cmTC_7c1dd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7c1dd.dir/build.make CMakeFiles/cmTC_7c1dd.dir/build
+make[1]: Entering directory '/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7c1dd.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_7c1dd.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7c1dd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7c1dd.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_7c1dd.dir/CheckFunctionExists.c.o  -o cmTC_7c1dd -rdynamic -lpthreads 
 /usr/bin/ld: cannot find -lpthreads
 collect2: error: ld returned 1 exit status
-CMakeFiles/cmTC_9f3ea.dir/build.make:97: recipe for target 'cmTC_9f3ea' failed
-make[1]: *** [cmTC_9f3ea] Error 1
-make[1]: Leaving directory '/media/root/BuntuDrive/catkin_ws/build/CMakeFiles/CMakeTmp'
-Makefile:126: recipe for target 'cmTC_9f3ea/fast' failed
-make: *** [cmTC_9f3ea/fast] Error 2
+CMakeFiles/cmTC_7c1dd.dir/build.make:97: recipe for target 'cmTC_7c1dd' failed
+make[1]: *** [cmTC_7c1dd] Error 1
+make[1]: Leaving directory '/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_7c1dd/fast' failed
+make: *** [cmTC_7c1dd/fast] Error 2
 
 

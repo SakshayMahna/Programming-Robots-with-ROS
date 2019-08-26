@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install
+
+Name: teleopbot
+Description: Description of teleopbot
+Version: 0.0.0
+Cflags: 
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install/lib 
+Requires: 

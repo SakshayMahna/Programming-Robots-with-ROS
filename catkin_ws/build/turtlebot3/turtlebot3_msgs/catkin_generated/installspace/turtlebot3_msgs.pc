@@ -1,8 +1,8 @@
-prefix=/media/root/BuntuDrive/catkin_ws/install
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install
 
 Name: turtlebot3_msgs
 Description: Description of turtlebot3_msgs
 Version: 1.0.0
-Cflags: -I/media/root/BuntuDrive/catkin_ws/install/include
-Libs: -L/media/root/BuntuDrive/catkin_ws/install/lib 
+Cflags: -I/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install/include
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install/lib 
 Requires: std_msgs message_runtime

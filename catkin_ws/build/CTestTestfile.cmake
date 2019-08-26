@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /media/root/BuntuDrive/catkin_ws/src
-# Build directory: /media/root/BuntuDrive/catkin_ws/build
+# Source directory: /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/src
+# Build directory: /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
@@ -9,6 +9,7 @@ subdirs(turtlebot3/turtlebot3)
 subdirs(turtlebot3/turtlebot3_msgs)
 subdirs(turtlebot3/turtlebot3_navigation)
 subdirs(turtlebot3/turtlebot3_simulations/turtlebot3_simulations)
+subdirs(teleopbot)
 subdirs(turtlebot3/turtlebot3_bringup)
 subdirs(turtlebot3/turtlebot3_example)
 subdirs(turtlebot3/turtlebot3_simulations/turtlebot3_fake)

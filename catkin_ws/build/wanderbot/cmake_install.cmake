@@ -1,8 +1,8 @@
-# Install script for directory: /media/root/BuntuDrive/catkin_ws/src/wanderbot
+# Install script for directory: /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/src/wanderbot
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/media/root/BuntuDrive/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -33,17 +33,17 @@ if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/media/root/BuntuDrive/catkin_ws/build/wanderbot/catkin_generated/installspace/wanderbot.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/wanderbot/catkin_generated/installspace/wanderbot.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wanderbot/cmake" TYPE FILE FILES
-    "/media/root/BuntuDrive/catkin_ws/build/wanderbot/catkin_generated/installspace/wanderbotConfig.cmake"
-    "/media/root/BuntuDrive/catkin_ws/build/wanderbot/catkin_generated/installspace/wanderbotConfig-version.cmake"
+    "/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/wanderbot/catkin_generated/installspace/wanderbotConfig.cmake"
+    "/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/wanderbot/catkin_generated/installspace/wanderbotConfig-version.cmake"
     )
 endif()
 
 if(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "Unspecified")
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wanderbot" TYPE FILE FILES "/media/root/BuntuDrive/catkin_ws/src/wanderbot/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/wanderbot" TYPE FILE FILES "/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/src/wanderbot/package.xml")
 endif()
 

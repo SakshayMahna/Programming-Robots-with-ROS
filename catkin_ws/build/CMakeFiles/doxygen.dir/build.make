@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /media/root/BuntuDrive/catkin_ws/src
+CMAKE_SOURCE_DIR = /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /media/root/BuntuDrive/catkin_ws/build
+CMAKE_BINARY_DIR = /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build
 
 # Utility rule file for doxygen.
 
@@ -67,6 +67,6 @@ CMakeFiles/doxygen.dir/clean:
 .PHONY : CMakeFiles/doxygen.dir/clean
 
 CMakeFiles/doxygen.dir/depend:
-	cd /media/root/BuntuDrive/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/root/BuntuDrive/catkin_ws/src /media/root/BuntuDrive/catkin_ws/src /media/root/BuntuDrive/catkin_ws/build /media/root/BuntuDrive/catkin_ws/build /media/root/BuntuDrive/catkin_ws/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
+	cd /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/src /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/src /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/CMakeFiles/doxygen.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/doxygen.dir/depend
 

@@ -1,8 +1,8 @@
-prefix=/media/root/BuntuDrive/catkin_ws/devel
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/devel
 
 Name: turtlebot3_gazebo
 Description: Description of turtlebot3_gazebo
 Version: 1.2.0
-Cflags: -I/media/root/BuntuDrive/catkin_ws/src/turtlebot3/turtlebot3_simulations/turtlebot3_gazebo/include
-Libs: -L/media/root/BuntuDrive/catkin_ws/devel/lib 
+Cflags: -I/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/src/turtlebot3/turtlebot3_simulations/turtlebot3_gazebo/include
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/devel/lib 
 Requires: roscpp std_msgs sensor_msgs geometry_msgs nav_msgs tf gazebo_ros
