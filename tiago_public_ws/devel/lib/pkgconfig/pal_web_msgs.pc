@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel
+
+Name: pal_web_msgs
+Description: Description of pal_web_msgs
+Version: 0.12.13
+Cflags: -I/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/include
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/lib 
+Requires: message_runtime

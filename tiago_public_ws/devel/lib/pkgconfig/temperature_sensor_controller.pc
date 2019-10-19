@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel
+
+Name: temperature_sensor_controller
+Description: Description of temperature_sensor_controller
+Version: 0.3.16
+Cflags: -I/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/include -I/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/src/ros_controllers/temperature_sensor_controller/include
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/lib -ltemperature_sensor_controller
+Requires: realtime_tools hardware_interface pluginlib controller_interface sensor_msgs pal_hardware_interfaces

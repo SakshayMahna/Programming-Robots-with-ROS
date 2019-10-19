@@ -138,6 +138,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/turtlebot3/turtlebot3_slam/cmake_install.cmake")
   include("/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/turtlebot3/turtlebot3_teleop/cmake_install.cmake")
   include("/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/wanderbot/cmake_install.cmake")
+  include("/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/moveit/cmake_install.cmake")
   include("/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/turtlebot3/turtlebot3_description/cmake_install.cmake")
 
 endif()

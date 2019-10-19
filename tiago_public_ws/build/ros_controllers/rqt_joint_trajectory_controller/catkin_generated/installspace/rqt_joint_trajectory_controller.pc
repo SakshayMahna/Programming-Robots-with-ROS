@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/install
+
+Name: rqt_joint_trajectory_controller
+Description: Description of rqt_joint_trajectory_controller
+Version: 0.3.16
+Cflags: 
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/install/lib 
+Requires: 

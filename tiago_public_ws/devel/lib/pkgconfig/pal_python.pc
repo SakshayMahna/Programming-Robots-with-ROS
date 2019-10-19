@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel
+
+Name: pal_python
+Description: Description of pal_python
+Version: 0.9.14
+Cflags: 
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/lib 
+Requires: rospy roslib rosgraph actionlib actionlib_msgs

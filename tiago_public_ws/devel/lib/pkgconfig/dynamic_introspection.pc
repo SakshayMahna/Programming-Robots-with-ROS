@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel
+
+Name: dynamic_introspection
+Description: Description of dynamic_introspection
+Version: 1.0.12
+Cflags: -I/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/include -I/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/src/dynamic_introspection/include -I/usr/include/eigen3
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/lib -ldynamic_introspection
+Requires: roscpp message_generation rosbag pal_statistics visualization_msgs backward_ros std_msgs

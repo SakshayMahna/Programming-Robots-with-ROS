@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel
+
+Name: pal_hardware_interfaces
+Description: Description of pal_hardware_interfaces
+Version: 0.0.4
+Cflags: -I/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/src/pal_hardware_interfaces/include
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/lib 
+Requires: hardware_interface

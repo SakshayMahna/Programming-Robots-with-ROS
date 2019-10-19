@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel
+
+Name: simple_models_controller_configuration
+Description: Description of simple_models_controller_configuration
+Version: 0.0.15
+Cflags: 
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/devel/lib 
+Requires: 

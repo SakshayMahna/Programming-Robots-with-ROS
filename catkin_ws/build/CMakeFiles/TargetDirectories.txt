@@ -231,6 +231,13 @@
 /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/wanderbot/CMakeFiles/install/local.dir
 /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/wanderbot/CMakeFiles/test.dir
 /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/wanderbot/CMakeFiles/edit_cache.dir
+/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/moveit/CMakeFiles/list_install_components.dir
+/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/moveit/CMakeFiles/install.dir
+/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/moveit/CMakeFiles/rebuild_cache.dir
+/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/moveit/CMakeFiles/install/strip.dir
+/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/moveit/CMakeFiles/install/local.dir
+/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/moveit/CMakeFiles/test.dir
+/media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/moveit/CMakeFiles/edit_cache.dir
 /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/turtlebot3/turtlebot3_description/CMakeFiles/rebuild_cache.dir
 /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/turtlebot3/turtlebot3_description/CMakeFiles/edit_cache.dir
 /media/root/BuntuDrive/Programming-Robots-with-ROS/catkin_ws/build/turtlebot3/turtlebot3_description/CMakeFiles/list_install_components.dir

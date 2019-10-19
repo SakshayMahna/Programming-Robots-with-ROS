@@ -1,0 +1,8 @@
+prefix=/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/install
+
+Name: tiago_multi
+Description: Description of tiago_multi
+Version: 2.0.15
+Cflags: 
+Libs: -L/media/root/BuntuDrive/Programming-Robots-with-ROS/tiago_public_ws/install/lib 
+Requires: 
